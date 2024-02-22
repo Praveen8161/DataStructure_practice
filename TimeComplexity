@@ -1,0 +1,13 @@
+1. Constant Time -> O(1) -> same operations e.g -> arr[i];
+
+2. Logarithmic Time -> O(log n) -> 
+
+3. Linear Time -> O(n) -> based on n e.g -> for loop
+
+4. Linearithmic Time: O(n log n) -> 
+
+5. Quadratic Time: O(n²) -> e.g -> double for loop
+
+6. Exponential Time: O(2^n) -> Recursion
+
+7. Factorial Time: O(n!) ->
