@@ -34,4 +34,4 @@ var reverseWords1 = function (s) {
 
 const s = "a good   example";
 
-console.log(reverseWords(s));
+console.log(reverseWords1(s));
